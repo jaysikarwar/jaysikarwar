@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am pursing B.tech
+B.Tech CSE’27 @ GLA University | Full Stack Developer | DSA (240+ LeetCode) | Python | MERN Stack | Open to Internships”
 
 
 ## 🌐 Socials:
